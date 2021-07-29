@@ -1,6 +1,6 @@
-package com.company.app.repository;
+package com.kms.mvcjsp.repositories;
 
-import com.company.app.model.Book;
+import com.kms.mvcjsp.models.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

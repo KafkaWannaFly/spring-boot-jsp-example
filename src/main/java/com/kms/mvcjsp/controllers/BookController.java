@@ -1,7 +1,7 @@
-package com.company.app.controller;
+package com.kms.mvcjsp.controllers;
 
-import com.company.app.model.Book;
-import com.company.app.repository.BookRepository;
+import com.kms.mvcjsp.models.Book;
+import com.kms.mvcjsp.repositories.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

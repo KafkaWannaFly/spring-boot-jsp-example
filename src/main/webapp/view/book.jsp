@@ -7,7 +7,7 @@
 <body>
     <div>
         Book id: ${book.id}<br>
-        Book name: ${book.name}<br>
+        Book name: ${book.title}<br>
         Book author: ${book.author}<br>
     </div>
 </body>

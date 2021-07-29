@@ -8,7 +8,7 @@
     <div>
         <c:forEach items="${books}" var="book">
             <div>${book.id}</div>
-            <a href="/books/${book.id}">${book.name}</a>
+            <a href="/books/${book.id}">${book.title}</a>
             <div>${book.author}</div>
             <br>
         </c:forEach>
